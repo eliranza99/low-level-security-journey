@@ -8,7 +8,7 @@ This project-based study plan is based on a structured 6-month roadmap focused o
 ## 📄 Study Plan Document
 
 📥 **Download the full study plan** here:  
-[👉 Final_6_Month_Low_Level_Study_Plan.docx](Final_6_Month_Low_Level_Study_Plan.docx)
+[👉 Final_6_Month_Low_Level_Study_Plan](Final_6_Month_Low_Level_Study_Plan.md)
 
 ---
 
